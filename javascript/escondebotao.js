@@ -1,0 +1,10 @@
+const botao=document.getElementById("registroanimal");
+const animal=document.getElementById("animal");
+const especie=document.getElementById("especie");
+const tutor=document.getElementById("tutor");
+const idade=document.getElementById("idade");
+botao.style.display="none";
+especie.disabled=true
+idade.disabled=true;
+tutor.disabled=true;
+animal.disabled=true;
